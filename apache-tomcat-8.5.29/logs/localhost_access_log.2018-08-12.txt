@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:26 +1000] "GET /FlightPub-test/search HTTP/1.1" 200 2104
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:26 +1000] "GET /FlightPub-test/css/style.css HTTP/1.1" 200 3947
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:26 +1000] "GET /FlightPub-test/img/flightpub-logo.png HTTP/1.1" 200 3641
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:27 +1000] "GET /FlightPub-test/results?flightType=return&departureAirport=&arrivalAirport=&departureDate=&returnDate=&passengers=&flightClass=economy HTTP/1.1" 200 862
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:27 +1000] "GET /FlightPub-test/css/style.css HTTP/1.1" 200 3947
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:27 +1000] "GET /FlightPub-test/img/flightpub-logo.png HTTP/1.1" 200 3641
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:27 +1000] "GET /FlightPub-test/js/script.js HTTP/1.1" 200 514
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:28 +1000] "GET /FlightPub-test/normal-results HTTP/1.1" 200 33939
+0:0:0:0:0:0:0:1 - - [12/Aug/2018:21:32:28 +1000] "GET /FlightPub-test/img/placeholder.gif HTTP/1.1" 200 43

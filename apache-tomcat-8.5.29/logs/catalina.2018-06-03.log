@@ -1,0 +1,320 @@
+03-Jun-2018 21:49:27.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+03-Jun-2018 21:49:27.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 21:49:27.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 21:49:27.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Program Files\apache-tomcat-8.5.29\conf\logging.properties
+03-Jun-2018 21:49:27.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Jun-2018 21:49:27.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Jun-2018 21:49:27.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Jun-2018 21:49:27.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Jun-2018 21:49:27.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 21:49:27.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 21:49:27.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.5.29\temp
+03-Jun-2018 21:49:27.103 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;D:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_121\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.]
+03-Jun-2018 21:49:27.180 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 21:49:27.249 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Jun-2018 21:49:27.260 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 21:49:27.261 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Jun-2018 21:49:27.261 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 400 ms
+03-Jun-2018 21:49:27.278 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Jun-2018 21:49:27.278 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+03-Jun-2018 21:49:27.296 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war]
+03-Jun-2018 21:49:28.323 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2018 21:49:28.392 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+03-Jun-2018 21:49:28.432 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sun Jun 03 21:49:28 AEST 2018]; root of context hierarchy
+03-Jun-2018 21:49:28.474 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 21:49:29.012 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 21:49:29.073 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 21:49:28 AEST 2018]; root of context hierarchy
+03-Jun-2018 21:49:29.110 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 21:49:28 AEST 2018]; root of context hierarchy
+03-Jun-2018 21:49:29.173 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 21:49:29.175 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 21:49:29.178 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 21:49:29.180 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 21:49:29.217 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 825 ms
+03-Jun-2018 21:49:29.225 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization started
+03-Jun-2018 21:49:29.227 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 21:49:29 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 21:49:29.227 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 21:49:29.287 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 21:49:29.298 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 21:49:29 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 21:49:29.303 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 21:49:29 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 21:49:29.324 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 21:49:29.326 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 21:49:29.327 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 21:49:29.329 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 21:49:29.363 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization completed in 138 ms
+03-Jun-2018 21:49:29.370 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war] has finished in [2,074] ms
+03-Jun-2018 21:49:29.371 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\a3]
+03-Jun-2018 21:49:29.816 WARNING [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = it_services Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+03-Jun-2018 21:49:29.816 WARNING [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = it_services Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is -1. You have set value of "10000" for "maxWait" property, which is being ignored.
+03-Jun-2018 21:49:29.866 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2018 21:49:29.871 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\a3] has finished in [500] ms
+03-Jun-2018 21:49:29.871 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Asn1]
+03-Jun-2018 21:49:29.925 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Asn1] has finished in [54] ms
+03-Jun-2018 21:49:29.926 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment1]
+03-Jun-2018 21:49:30.069 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment1] has finished in [143] ms
+03-Jun-2018 21:49:30.069 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment2]
+03-Jun-2018 21:49:30.162 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment2] has finished in [93] ms
+03-Jun-2018 21:49:30.162 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\docs]
+03-Jun-2018 21:49:30.195 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\docs] has finished in [33] ms
+03-Jun-2018 21:49:30.195 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\examples]
+03-Jun-2018 21:49:31.488 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\examples] has finished in [1,293] ms
+03-Jun-2018 21:49:31.488 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\host-manager]
+03-Jun-2018 21:49:31.516 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\host-manager] has finished in [28] ms
+03-Jun-2018 21:49:31.516 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Lab0405]
+03-Jun-2018 21:49:31.600 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Lab0405] has finished in [84] ms
+03-Jun-2018 21:49:31.600 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\manager]
+03-Jun-2018 21:49:31.638 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\manager] has finished in [38] ms
+03-Jun-2018 21:49:31.638 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\ROOT]
+03-Jun-2018 21:49:31.666 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\ROOT] has finished in [28] ms
+03-Jun-2018 21:49:31.667 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\seng3150-group-3]
+03-Jun-2018 21:49:31.674 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\seng3150-group-3] has finished in [7] ms
+03-Jun-2018 21:49:31.677 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 21:49:31.709 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 21:49:31.712 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4449 ms
+03-Jun-2018 23:01:32.547 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/FlightPub-test]
+03-Jun-2018 23:01:32.549 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 21:49:29 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:32.552 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Sun Jun 03 21:49:28 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:32.575 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war]
+03-Jun-2018 23:01:33.197 INFO [localhost-startStop-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+03-Jun-2018 23:01:33.241 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sun Jun 03 23:01:33 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:33.272 INFO [localhost-startStop-2] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 23:01:33.715 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 23:01:33.775 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 23:01:33 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:33.815 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 23:01:33 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:33.873 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 23:01:33.875 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 23:01:33.876 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 23:01:33.878 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 23:01:33.977 INFO [localhost-startStop-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 780 ms
+03-Jun-2018 23:01:33.981 INFO [localhost-startStop-2] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization started
+03-Jun-2018 23:01:33.983 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:33 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:33.983 INFO [localhost-startStop-2] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 23:01:34.033 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 23:01:34.051 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:33 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:34.058 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:33 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:34.081 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 23:01:34.083 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 23:01:34.085 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 23:01:34.087 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 23:01:34.123 INFO [localhost-startStop-2] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization completed in 142 ms
+03-Jun-2018 23:01:34.125 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war] has finished in [1,550] ms
+03-Jun-2018 23:01:38.905 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 23:01:38.977 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 23:01:39.010 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Jun-2018 23:01:39.037 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:33 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:39.038 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Sun Jun 03 23:01:33 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:39.045 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 23:01:39.046 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 23:01:39.047 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 23:01:39.047 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 23:01:42.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+03-Jun-2018 23:01:42.085 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+03-Jun-2018 23:01:42.085 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+03-Jun-2018 23:01:42.085 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+03-Jun-2018 23:01:42.085 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Jun-2018 23:01:42.085 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Program Files\apache-tomcat-8.5.29\conf\logging.properties
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Jun-2018 23:01:42.086 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:01:42.087 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:01:42.087 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.5.29\temp
+03-Jun-2018 23:01:42.087 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;D:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_121\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.]
+03-Jun-2018 23:01:42.166 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 23:01:42.235 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Jun-2018 23:01:42.240 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 23:01:42.242 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Jun-2018 23:01:42.242 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 381 ms
+03-Jun-2018 23:01:42.255 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Jun-2018 23:01:42.255 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+03-Jun-2018 23:01:42.268 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war]
+03-Jun-2018 23:01:42.986 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2018 23:01:43.016 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+03-Jun-2018 23:01:43.071 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sun Jun 03 23:01:43 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:43.108 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 23:01:43.613 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 23:01:43.685 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 23:01:43 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:43.725 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 23:01:43 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:01:43.801 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 23:01:43.804 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 23:01:43.807 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 23:01:43.810 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 23:01:43.843 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 827 ms
+03-Jun-2018 23:01:43.849 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization started
+03-Jun-2018 23:01:43.851 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:43 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:43.851 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 23:01:43.908 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 23:01:43.920 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:43 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:43.924 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:43 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:01:43.944 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 23:01:43.946 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 23:01:43.948 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 23:01:43.950 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 23:01:43.984 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization completed in 135 ms
+03-Jun-2018 23:01:43.992 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war] has finished in [1,724] ms
+03-Jun-2018 23:01:43.993 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\a3]
+03-Jun-2018 23:01:44.101 WARNING [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = it_services Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+03-Jun-2018 23:01:44.101 WARNING [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = it_services Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is -1. You have set value of "10000" for "maxWait" property, which is being ignored.
+03-Jun-2018 23:01:44.127 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2018 23:01:44.132 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\a3] has finished in [139] ms
+03-Jun-2018 23:01:44.132 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Asn1]
+03-Jun-2018 23:01:44.149 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Asn1] has finished in [17] ms
+03-Jun-2018 23:01:44.149 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment1]
+03-Jun-2018 23:01:44.168 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment1] has finished in [19] ms
+03-Jun-2018 23:01:44.168 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment2]
+03-Jun-2018 23:01:44.185 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment2] has finished in [17] ms
+03-Jun-2018 23:01:44.186 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\docs]
+03-Jun-2018 23:01:44.198 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\docs] has finished in [12] ms
+03-Jun-2018 23:01:44.198 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\examples]
+03-Jun-2018 23:01:44.324 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\examples] has finished in [126] ms
+03-Jun-2018 23:01:44.324 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\host-manager]
+03-Jun-2018 23:01:44.341 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\host-manager] has finished in [17] ms
+03-Jun-2018 23:01:44.341 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Lab0405]
+03-Jun-2018 23:01:44.357 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Lab0405] has finished in [16] ms
+03-Jun-2018 23:01:44.357 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\manager]
+03-Jun-2018 23:01:44.377 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\manager] has finished in [20] ms
+03-Jun-2018 23:01:44.377 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\ROOT]
+03-Jun-2018 23:01:44.388 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\ROOT] has finished in [11] ms
+03-Jun-2018 23:01:44.388 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\seng3150-group-3]
+03-Jun-2018 23:01:44.404 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\seng3150-group-3] has finished in [16] ms
+03-Jun-2018 23:01:44.407 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 23:01:44.427 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 23:01:44.430 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2188 ms
+03-Jun-2018 23:52:09.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+03-Jun-2018 23:52:09.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Program Files\apache-tomcat-8.5.29\conf\logging.properties
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Jun-2018 23:52:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Jun-2018 23:52:09.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Jun-2018 23:52:09.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Jun-2018 23:52:09.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:52:09.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.5.29
+03-Jun-2018 23:52:09.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.5.29\temp
+03-Jun-2018 23:52:09.297 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;D:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_121\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.]
+03-Jun-2018 23:52:09.370 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Jun-2018 23:52:09.376 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-8080]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:632)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:995)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1086)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:268)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:581)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:68)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:993)
+	... 13 more
+
+03-Jun-2018 23:52:09.377 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+03-Jun-2018 23:52:09.378 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[AJP/1.3-8009]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[AJP/1.3-8009]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:632)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:995)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1086)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:268)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:581)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:993)
+	... 13 more
+
+03-Jun-2018 23:52:09.378 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 292 ms
+03-Jun-2018 23:52:09.396 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Jun-2018 23:52:09.396 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+03-Jun-2018 23:52:09.410 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war]
+03-Jun-2018 23:52:10.152 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2018 23:52:10.191 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+03-Jun-2018 23:52:10.265 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sun Jun 03 23:52:10 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:52:10.305 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 23:52:10.860 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 23:52:10.933 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 23:52:10 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:52:35.113 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/FlightPub-test]
+03-Jun-2018 23:52:35.116 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:01:43 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:52:35.125 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Sun Jun 03 23:01:43 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:52:35.156 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war]
+03-Jun-2018 23:52:35.902 INFO [localhost-startStop-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+03-Jun-2018 23:52:35.945 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sun Jun 03 23:52:35 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:52:35.983 INFO [localhost-startStop-2] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 23:52:36.454 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 23:52:36.519 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 23:52:35 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:52:36.554 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sun Jun 03 23:52:35 AEST 2018]; root of context hierarchy
+03-Jun-2018 23:52:36.616 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 23:52:36.618 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 23:52:36.619 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 23:52:36.621 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 23:52:36.652 INFO [localhost-startStop-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 749 ms
+03-Jun-2018 23:52:36.656 INFO [localhost-startStop-2] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization started
+03-Jun-2018 23:52:36.658 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:52:36 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:52:36.658 INFO [localhost-startStop-2] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+03-Jun-2018 23:52:36.698 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+03-Jun-2018 23:52:36.710 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:52:36 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:52:36.715 INFO [localhost-startStop-2] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Sun Jun 03 23:52:36 AEST 2018]; parent: Root WebApplicationContext
+03-Jun-2018 23:52:36.736 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+03-Jun-2018 23:52:36.738 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+03-Jun-2018 23:52:36.740 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+03-Jun-2018 23:52:36.742 INFO [localhost-startStop-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+03-Jun-2018 23:52:36.777 INFO [localhost-startStop-2] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization completed in 121 ms
+03-Jun-2018 23:52:36.780 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test.war] has finished in [1,624] ms

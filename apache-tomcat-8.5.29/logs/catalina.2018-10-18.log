@@ -1,0 +1,268 @@
+18-Oct-2018 16:57:26.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+18-Oct-2018 16:57:26.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Program Files\apache-tomcat-8.5.29
+18-Oct-2018 16:57:26.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.5.29
+18-Oct-2018 16:57:26.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Program Files\apache-tomcat-8.5.29\conf\logging.properties
+18-Oct-2018 16:57:26.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Oct-2018 16:57:26.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Oct-2018 16:57:26.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Oct-2018 16:57:26.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Oct-2018 16:57:26.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Program Files\apache-tomcat-8.5.29
+18-Oct-2018 16:57:26.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.5.29
+18-Oct-2018 16:57:26.430 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.5.29\temp
+18-Oct-2018 16:57:26.430 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;D:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk1.8.0_121\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.]
+18-Oct-2018 16:57:26.645 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Oct-2018 16:57:26.721 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Oct-2018 16:57:26.729 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Oct-2018 16:57:26.730 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Oct-2018 16:57:26.731 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 551 ms
+18-Oct-2018 16:57:26.750 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Oct-2018 16:57:26.750 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+18-Oct-2018 16:57:26.769 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-0.2.war]
+18-Oct-2018 16:57:28.924 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 16:57:28.955 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+18-Oct-2018 16:57:28.997 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Thu Oct 18 16:57:28 AEDT 2018]; root of context hierarchy
+18-Oct-2018 16:57:29.052 INFO [localhost-startStop-1] org.springframework.web.context.support.AnnotationConfigWebApplicationContext.loadBeanDefinitions No annotated classes found for specified class/package [/WEB-INF/SpringDispatcher-servlet.xml]
+18-Oct-2018 16:57:29.099 INFO [localhost-startStop-1] org.springframework.web.context.support.AnnotationConfigWebApplicationContext.loadBeanDefinitions Found 1 annotated classes in package [seng3150.group3.config]
+18-Oct-2018 16:57:29.914 INFO [localhost-startStop-1] org.springframework.security.web.DefaultSecurityFilterChain.<init> Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5f1a1d88, org.springframework.security.web.context.SecurityContextPersistenceFilter@16583fa0, org.springframework.security.web.header.HeaderWriterFilter@7b92426b, org.springframework.security.web.authentication.logout.LogoutFilter@75f2516f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3fff88d3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3bcfd352, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5476b22b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@32bd64e, org.springframework.security.web.session.SessionManagementFilter@9dd556b, org.springframework.security.web.access.ExceptionTranslationFilter@72b06546, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3b63c64]
+18-Oct-2018 16:57:29.959 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1004 ms
+18-Oct-2018 16:57:29.969 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization started
+18-Oct-2018 16:57:29.971 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Thu Oct 18 16:57:29 AEDT 2018]; parent: Root WebApplicationContext
+18-Oct-2018 16:57:29.982 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+18-Oct-2018 16:57:30.346 INFO [localhost-startStop-1] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory Building JPA container EntityManagerFactory for persistence unit 'spring_example_PU'
+18-Oct-2018 16:57:30.368 INFO [localhost-startStop-1] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: spring_example_PU
+	...]
+18-Oct-2018 16:57:30.460 INFO [localhost-startStop-1] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.2.17.Final}
+18-Oct-2018 16:57:30.462 INFO [localhost-startStop-1] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+18-Oct-2018 16:57:30.506 INFO [localhost-startStop-1] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+18-Oct-2018 16:57:40.756 WARN [localhost-startStop-1] org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+18-Oct-2018 16:57:40.770 INFO [localhost-startStop-1] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+18-Oct-2018 16:57:40.791 INFO [localhost-startStop-1] org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl.makeLobCreatorBuilder HHH000422: Disabling contextual LOB creation as connection was null
+18-Oct-2018 16:57:41.086 WARN [localhost-startStop-1] org.hibernate.mapping.RootClass.checkCompositeIdentifier HHH000038: Composite-id class does not override equals(): seng3150.group3.beans.FlightPathPK
+18-Oct-2018 16:57:41.086 WARN [localhost-startStop-1] org.hibernate.mapping.RootClass.checkCompositeIdentifier HHH000039: Composite-id class does not override hashCode(): seng3150.group3.beans.FlightPathPK
+18-Oct-2018 16:57:51.401 WARN [localhost-startStop-1] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 0, SQLState: null
+18-Oct-2018 16:57:51.401 ERROR [localhost-startStop-1] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+18-Oct-2018 16:57:51.403 WARNING [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.refresh Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: spring_example_PU] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+18-Oct-2018 16:57:51.404 SEVERE [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean Context initialization failed
+ org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: spring_example_PU] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1699)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:573)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1089)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:859)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:676)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:642)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:690)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:558)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:499)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:172)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:983)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5249)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:986)
+	at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1857)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: spring_example_PU] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:402)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:377)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1758)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1695)
+	... 32 more
+Caused by: org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:47)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:111)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:97)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:69)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcDatabaseMetaData(ImprovedExtractionContextImpl.java:67)
+	at org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl.getTables(InformationExtractorJdbcDatabaseMetaDataImpl.java:329)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.getTablesInformation(DatabaseInformationImpl.java:120)
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:65)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:207)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:114)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:183)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:312)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:462)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:892)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:57)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:390)
+	... 36 more
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2342)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2067)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1543)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	... 51 more
+Caused by: java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:902)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:827)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:207)
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:262)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2352)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2338)
+	... 56 more
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:846)
+	... 64 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:173)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65)
+	... 66 more
+
+18-Oct-2018 16:57:51.414 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-0.2.war] has finished in [24,645] ms
+18-Oct-2018 16:57:51.414 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\a3]
+18-Oct-2018 16:57:51.708 WARNING [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = it_services Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+18-Oct-2018 16:57:51.708 WARNING [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = it_services Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is -1. You have set value of "10000" for "maxWait" property, which is being ignored.
+18-Oct-2018 16:57:51.732 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 16:57:51.737 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\a3] has finished in [323] ms
+18-Oct-2018 16:57:51.738 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Asn1]
+18-Oct-2018 16:57:51.759 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Asn1] has finished in [22] ms
+18-Oct-2018 16:57:51.759 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\axis]
+18-Oct-2018 16:57:52.805 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 16:57:52.968 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\axis] has finished in [1,209] ms
+18-Oct-2018 16:57:52.968 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment1]
+18-Oct-2018 16:57:53.008 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment1] has finished in [40] ms
+18-Oct-2018 16:57:53.008 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment2]
+18-Oct-2018 16:57:53.054 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\c3256747_assignment2] has finished in [46] ms
+18-Oct-2018 16:57:53.054 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\DDDFlightPub-test]
+18-Oct-2018 16:57:53.599 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 16:57:53.614 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+18-Oct-2018 16:57:53.651 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Thu Oct 18 16:57:53 AEDT 2018]; root of context hierarchy
+18-Oct-2018 16:57:53.686 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+18-Oct-2018 16:57:54.096 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+18-Oct-2018 16:57:54.153 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Thu Oct 18 16:57:53 AEDT 2018]; root of context hierarchy
+18-Oct-2018 16:57:54.186 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Thu Oct 18 16:57:53 AEDT 2018]; root of context hierarchy
+18-Oct-2018 16:57:54.246 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+18-Oct-2018 16:57:54.247 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+18-Oct-2018 16:57:54.249 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+18-Oct-2018 16:57:54.251 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+18-Oct-2018 16:57:54.278 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 664 ms
+18-Oct-2018 16:57:54.281 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization started
+18-Oct-2018 16:57:54.282 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Thu Oct 18 16:57:54 AEDT 2018]; parent: Root WebApplicationContext
+18-Oct-2018 16:57:54.282 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+18-Oct-2018 16:57:54.323 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.IndexController.index(java.lang.String)
+18-Oct-2018 16:57:54.337 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Thu Oct 18 16:57:54 AEDT 2018]; parent: Root WebApplicationContext
+18-Oct-2018 16:57:54.343 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Thu Oct 18 16:57:54 AEDT 2018]; parent: Root WebApplicationContext
+18-Oct-2018 16:57:54.365 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Default mapping to handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+18-Oct-2018 16:57:54.366 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+18-Oct-2018 16:57:54.370 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+18-Oct-2018 16:57:54.371 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+18-Oct-2018 16:57:54.399 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization completed in 118 ms
+18-Oct-2018 16:57:54.400 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\DDDFlightPub-test] has finished in [1,346] ms
+18-Oct-2018 16:57:54.400 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\docs]
+18-Oct-2018 16:57:54.412 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\docs] has finished in [12] ms
+18-Oct-2018 16:57:54.412 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\examples]
+18-Oct-2018 16:57:55.131 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\examples] has finished in [719] ms
+18-Oct-2018 16:57:55.131 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test]
+18-Oct-2018 16:57:55.894 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 16:57:55.912 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+18-Oct-2018 16:57:55.952 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Thu Oct 18 16:57:55 AEDT 2018]; root of context hierarchy
+18-Oct-2018 16:57:55.984 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-security.xml]
+18-Oct-2018 16:57:56.028 INFO [localhost-startStop-1] org.springframework.security.core.SpringSecurityCoreVersion.performVersionChecks You are running with Spring Security Core 5.0.4.RELEASE
+18-Oct-2018 16:57:56.030 INFO [localhost-startStop-1] org.springframework.security.config.SecurityNamespaceHandler.<init> Spring Security 'config' module version is 5.0.4.RELEASE
+18-Oct-2018 16:57:56.068 INFO [localhost-startStop-1] org.springframework.security.config.http.FilterInvocationSecurityMetadataSourceParser.parseInterceptUrlsForFilterInvocationRequestMap Creating access control expression attribute 'hasRole('ROLE_USER')' for /create-review
+18-Oct-2018 16:57:56.068 INFO [localhost-startStop-1] org.springframework.security.config.http.FilterInvocationSecurityMetadataSourceParser.parseInterceptUrlsForFilterInvocationRequestMap Creating access control expression attribute 'hasRole('ROLE_USER')' for /payment
+18-Oct-2018 16:57:56.069 INFO [localhost-startStop-1] org.springframework.security.config.http.FilterInvocationSecurityMetadataSourceParser.parseInterceptUrlsForFilterInvocationRequestMap Creating access control expression attribute 'hasRole('ROLE_USER')' for /purchase-history
+18-Oct-2018 16:57:56.069 INFO [localhost-startStop-1] org.springframework.security.config.http.FilterInvocationSecurityMetadataSourceParser.parseInterceptUrlsForFilterInvocationRequestMap Creating access control expression attribute 'hasRole('ROLE_USER')' for /purchase-summary
+18-Oct-2018 16:57:56.087 INFO [localhost-startStop-1] org.springframework.security.config.http.AuthenticationConfigBuilder.createLoginPageFilterIfNeeded No login page configured. The default internal one will be used. Use the 'login-page' attribute to set the URL of the login page.
+18-Oct-2018 16:57:56.093 INFO [localhost-startStop-1] org.springframework.security.config.http.HttpSecurityBeanDefinitionParser.checkFilterChainOrder Checking sorted filter chain: [Root bean: class [org.springframework.security.web.context.SecurityContextPersistenceFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 200, Root bean: class [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 400, Root bean: class [org.springframework.security.web.header.HeaderWriterFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 500, Root bean: class [org.springframework.security.web.csrf.CsrfFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 700, <org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter#0>, order = 1200, Root bean: class [org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 1400, Root bean: class [org.springframework.security.web.savedrequest.RequestCacheAwareFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 1700, Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.security.config.http.HttpConfigurationBuilder$SecurityContextHolderAwareRequestFilterBeanFactory#0; factoryMethodName=getBean; initMethodName=null; destroyMethodName=null, order = 1800, Root bean: class [org.springframework.security.web.authentication.AnonymousAuthenticationFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 2100, Root bean: class [org.springframework.security.web.session.SessionManagementFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 2200, Root bean: class [org.springframework.security.web.access.ExceptionTranslationFilter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null, order = 2300, <org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0>, order = 2400]
+18-Oct-2018 16:57:56.300 INFO [localhost-startStop-1] org.springframework.security.web.DefaultSecurityFilterChain.<init> Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.SecurityContextPersistenceFilter@5e2eb3e8, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1b3fa100, org.springframework.security.web.header.HeaderWriterFilter@61c8beaf, org.springframework.security.web.csrf.CsrfFilter@215d9116, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@a47d726, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6c1650cf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@488fb624, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5974b02, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@31dd4271, org.springframework.security.web.session.SessionManagementFilter@6f13fcad, org.springframework.security.web.access.ExceptionTranslationFilter@5a1859fd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@65e8c6e7]
+18-Oct-2018 16:57:56.308 INFO [localhost-startStop-1] org.springframework.security.config.http.DefaultFilterChainValidator.checkLoginPageIsntProtected Checking whether login URL '/login' is accessible with your configuration
+18-Oct-2018 16:57:56.321 INFO [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 408 ms
+18-Oct-2018 16:57:56.325 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization started
+18-Oct-2018 16:57:56.328 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Thu Oct 18 16:57:56 AEDT 2018]; parent: Root WebApplicationContext
+18-Oct-2018 16:57:56.328 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringDispatcher-servlet.xml]
+18-Oct-2018 16:57:56.701 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/bookings],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.BookingsController.bookings()
+18-Oct-2018 16:57:56.703 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/book-ticket],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.BookTicketController.bookTicket()
+18-Oct-2018 16:57:56.704 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/create-review],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.CreateReviewController.createReview()
+18-Oct-2018 16:57:56.704 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/flight-details],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.FlightDetailsController.flightDetails()
+18-Oct-2018 16:57:56.705 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/],methods=[GET]}" onto public java.lang.String seng3150.group3.controllers.IndexController.index()
+18-Oct-2018 16:57:56.707 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/login],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.LoginController.login()
+18-Oct-2018 16:57:56.708 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/login],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.LoginController.loginPost(java.lang.String,java.lang.String)
+18-Oct-2018 16:57:56.709 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/normal-results],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.NormalResultsController.normalResults()
+18-Oct-2018 16:57:56.709 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/payment],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.PaymentController.payment()
+18-Oct-2018 16:57:56.710 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/purchase-history],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.PurchaseHistoryController.purchaseHistory()
+18-Oct-2018 16:57:56.710 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/purchase-summary],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.PurchaseSummaryController.purchaseSummary()
+18-Oct-2018 16:57:56.711 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/recommendations],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.RecommendationsController.recommendations()
+18-Oct-2018 16:57:56.713 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/register],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.RegisterController.register()
+18-Oct-2018 16:57:56.713 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/results],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.ResultsController.results()
+18-Oct-2018 16:57:56.714 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/search],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.SearchController.search()
+18-Oct-2018 16:57:56.714 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/view-reviews-admin],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.ViewReviewsAdminController.viewReviewsAdmin()
+18-Oct-2018 16:57:56.716 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register Mapped "{[/view-reviews],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView seng3150.group3.controllers.ViewReviewsController.viewReviews()
+18-Oct-2018 16:57:56.761 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Thu Oct 18 16:57:56 AEDT 2018]; parent: Root WebApplicationContext
+18-Oct-2018 16:57:56.795 INFO [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringDispatcher-servlet': startup date [Thu Oct 18 16:57:56 AEDT 2018]; parent: Root WebApplicationContext
+18-Oct-2018 16:57:56.861 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+18-Oct-2018 16:57:56.863 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+18-Oct-2018 16:57:56.865 INFO [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+18-Oct-2018 16:57:56.952 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringDispatcher': initialization completed in 627 ms
+18-Oct-2018 16:57:56.954 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\FlightPub-test] has finished in [1,823] ms
+18-Oct-2018 16:57:56.954 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\host-manager]
+18-Oct-2018 16:57:56.976 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\host-manager] has finished in [22] ms
+18-Oct-2018 16:57:56.976 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Lab0405]
+18-Oct-2018 16:57:57.011 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\Lab0405] has finished in [35] ms
+18-Oct-2018 16:57:57.011 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\manager]
+18-Oct-2018 16:57:57.031 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\manager] has finished in [20] ms
+18-Oct-2018 16:57:57.031 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\ROOT]
+18-Oct-2018 16:57:57.046 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\ROOT] has finished in [14] ms
+18-Oct-2018 16:57:57.046 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\seng3150-group-3]
+18-Oct-2018 16:57:57.054 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Program Files\apache-tomcat-8.5.29\webapps\seng3150-group-3] has finished in [8] ms
+18-Oct-2018 16:57:57.056 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Oct-2018 16:57:57.062 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Oct-2018 16:57:57.064 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 30332 ms

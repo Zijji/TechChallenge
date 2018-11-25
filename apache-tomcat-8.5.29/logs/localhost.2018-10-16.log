@@ -1,0 +1,378 @@
+16-Oct-2018 22:08:27.020 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Oct-2018 22:08:27.033 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Oct-2018 22:08:28.025 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'SpringDispatcher'
+16-Oct-2018 22:08:32.089 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Oct-2018 22:08:32.099 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Oct-2018 22:08:32.776 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'SpringDispatcher'
+16-Oct-2018 22:08:34.211 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+16-Oct-2018 22:08:34.211 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+16-Oct-2018 22:08:34.212 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1da0e63f')
+16-Oct-2018 22:08:35.573 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Oct-2018 22:08:35.584 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Oct-2018 22:08:35.984 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'SpringDispatcher'
+16-Oct-2018 22:16:19.158 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: ADL
+16-Oct-2018 22:16:19.159 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: AMS
+16-Oct-2018 22:16:19.159 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: ATL
+16-Oct-2018 22:16:19.159 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: BKK
+16-Oct-2018 22:16:19.159 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: BNE
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: CBR
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: CDG
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: CNS
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: DOH
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: DRW
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: DXB
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: FCO
+16-Oct-2018 22:16:19.160 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: GIG
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: HBA
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: HEL
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: HKG
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: HNL
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: JFK
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: JNB
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: KUL
+16-Oct-2018 22:16:19.161 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: LAX
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: LGA
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: LGW
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: LHR
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: MAD
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: MEL
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: MIA
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: MUC
+16-Oct-2018 22:16:19.162 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: NRT
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: OOL
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: ORD
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: ORY
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: PER
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: SFO
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: SIN
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: SYD
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: VIE
+16-Oct-2018 22:16:19.163 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: ADL
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Add vertex: YYZ
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: AMS
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: ATL
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: BKK
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: BNE
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: CBR
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: CDG
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: CNS
+16-Oct-2018 22:16:19.164 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: DOH
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: DRW
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: DXB
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: FCO
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: GIG
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: HBA
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: HEL
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: HKG
+16-Oct-2018 22:16:19.165 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: HNL
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: JFK
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: JNB
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: KUL
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: LAX
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: LGA
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: LGW
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: LHR
+16-Oct-2018 22:16:19.166 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: MAD
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: MEL
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: MIA
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: MUC
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: NRT
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: OOL
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: ORD
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: ORY
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: PER
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: SFO
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: SIN
+16-Oct-2018 22:16:19.167 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: SYD
+16-Oct-2018 22:16:19.168 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: VIE
+16-Oct-2018 22:16:19.168 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Add vertex: YYZ
+16-Oct-2018 22:16:19.247 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> MIA : 120
+16-Oct-2018 22:16:19.247 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> MIA : 120
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MIA -> GIG : 520
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MIA -> GIG : 520
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: GIG -> JFK : 630
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: JFK -> ATL : 150
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: GIG -> JFK : 630
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LGA -> ORD : 150
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: JFK -> ATL : 150
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> LAX : 250
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LGA -> ORD : 150
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> LAX : 250
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> JFK : 335
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> YYZ : 280
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> JFK : 335
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> YYZ : 280
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: VIE -> CDG : 125
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: CDG -> MAD : 125
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: VIE -> CDG : 125
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: CDG -> MAD : 125
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ORY -> LHR : 85
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> DOH : 400
+16-Oct-2018 22:16:19.248 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ORY -> LHR : 85
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> DOH : 400
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: FCO -> HEL : 205
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: FCO -> HEL : 205
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HEL -> FCO : 205
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HEL -> SIN : 690
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HEL -> FCO : 205
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> PER : 310
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HEL -> SIN : 690
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: BKK -> LHR : 735
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> PER : 310
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> ORY : 75
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ORY -> LHR : 85
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: BKK -> LHR : 735
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> BKK : 685
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> ORY : 75
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LGW -> AMS : 75
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ORY -> LHR : 85
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> MUC : 85
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: YYZ -> HKG : 820
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> BKK : 685
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> ADL : 520
+16-Oct-2018 22:16:19.249 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LGW -> AMS : 75
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: CNS -> MEL : 205
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> MUC : 85
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> HBA : 75
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: OOL -> CBR : 95
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: YYZ -> HKG : 820
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: CBR -> OOL : 90
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> ADL : 520
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> ATL : 915
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: CNS -> MEL : 205
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> SFO : 320
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: BNE -> SYD : 95
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> HBA : 75
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> ATL : 1200
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: OOL -> CBR : 95
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: JFK -> LAX : 386
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: CBR -> OOL : 90
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> LGA : 144
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> SYD : 900
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> ATL : 915
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> BNE : 90
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> SFO : 320
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SFO -> ATL : 282
+16-Oct-2018 22:16:19.250 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: BNE -> SYD : 95
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> DXB : 845
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> ATL : 1200
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> DXB : 410
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> SIN : 570
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: JFK -> LAX : 386
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> LGA : 144
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> MEL : 430
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> DXB : 1105
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> SYD : 900
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> BNE : 90
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> LHR : 445
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MAD -> ORY : 115
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SFO -> ATL : 282
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> NRT : 370
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ATL -> DXB : 845
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: NRT -> HNL : 465
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> DXB : 410
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HNL -> NRT : 370
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: NRT -> HKG : 465
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> SIN : 570
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> SIN : 470
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> MEL : 430
+16-Oct-2018 22:16:19.251 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> HKG : 235
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> DXB : 1105
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> SIN : 465
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> MEL : 430
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> LHR : 445
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: DRW -> BNE : 220
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MAD -> ORY : 115
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> OOL : 270
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> NRT : 370
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: OOL -> PER : 345
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: FCO -> AMS : 150
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: NRT -> HNL : 465
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> FCO : 135
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HNL -> NRT : 370
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MAD -> AMS : 155
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: NRT -> HKG : 465
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> VIE : 110
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> AMS : 95
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> SIN : 470
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> LGW : 75
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> HKG : 235
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> KUL : 725
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: KUL -> PER : 320
+16-Oct-2018 22:16:19.252 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> SIN : 465
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> MEL : 430
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> KUL : 340
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: KUL -> AMS : 760
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: DRW -> BNE : 220
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> FCO : 95
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> OOL : 270
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: FCO -> MUC : 100
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: OOL -> PER : 345
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SFO -> MUC : 645
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> DXB : 365
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: FCO -> AMS : 150
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> FCO : 135
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> MUC : 385
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> SFO : 715
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MAD -> AMS : 155
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> VIE : 110
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: JNB -> MUC : 660
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> ORD : 580
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> AMS : 95
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> LGW : 75
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> MUC : 660
+16-Oct-2018 22:16:19.253 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> JNB : 580
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: AMS -> KUL : 725
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: KUL -> PER : 320
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> SIN : 735
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> KUL : 340
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> SIN : 325
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> MUC : 765
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: KUL -> AMS : 760
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> KUL : 490
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> FCO : 95
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: KUL -> SIN : 55
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: FCO -> MUC : 100
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> LHR : 1385
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SFO -> MUC : 645
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> ORY : 75
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HBA -> SYD : 105
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> DXB : 365
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> CNS : 190
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: DXB -> MUC : 385
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> SFO : 715
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> SYD : 900
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: JNB -> MUC : 660
+16-Oct-2018 22:16:19.254 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> ADL : 130
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> ORD : 580
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: YYZ -> LAX : 315
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HNL -> ORD : 500
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> MUC : 660
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> YYZ : 85
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> JNB : 580
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MUC -> SIN : 735
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> MEL : 1345
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> SYD : 75
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> SIN : 325
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> LAX : 1050
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> MUC : 765
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> SYD : 75
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> KUL : 490
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> HKG : 470
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: KUL -> SIN : 55
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> LHR : 1385
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> HEL : 640
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> ORY : 75
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ADL -> MEL : 75
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HBA -> SYD : 105
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> LAX : 1050
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ADL -> SYD : 115
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> CNS : 190
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> SYD : 900
+16-Oct-2018 22:16:19.255 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> HNL : 585
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> ADL : 130
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: BNE -> DRW : 250
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> MEL : 925
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: YYZ -> LAX : 315
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HNL -> ORD : 500
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> ADL : 80
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> YYZ : 85
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: DOH -> MEL : 810
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> MEL : 1345
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> DOH : 855
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> SYD : 75
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: DOH -> MAD : 475
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> LAX : 1050
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> MEL : 90
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> SYD : 75
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> SYD : 1385
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: PER -> HKG : 470
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: JNB -> LHR : 680
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: HKG -> HEL : 640
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ADL -> MEL : 75
+16-Oct-2018 22:16:19.256 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> ORD : 535
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> LAX : 1050
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> LHR : 680
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ADL -> SYD : 115
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> JNB : 535
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> HNL : 585
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> LHR : 805
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: BNE -> DRW : 250
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Graph build complete
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LAX -> MEL : 925
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> ADL : 80
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: DOH -> MEL : 810
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: MEL -> DOH : 855
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: DOH -> MAD : 475
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SYD -> MEL : 90
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> SYD : 1385
+16-Oct-2018 22:16:19.257 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: JNB -> LHR : 680
+16-Oct-2018 22:16:19.258 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> ORD : 535
+16-Oct-2018 22:16:19.258 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: ORD -> LHR : 680
+16-Oct-2018 22:16:19.258 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: LHR -> JNB : 535
+16-Oct-2018 22:16:19.258 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Flight path: SIN -> LHR : 805
+16-Oct-2018 22:16:19.258 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Graph build complete
+16-Oct-2018 22:16:19.323 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log destination airport: ATL
+16-Oct-2018 22:16:19.323 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log destination airport: MIA
+16-Oct-2018 22:16:19.323 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log destination airport: GIG
+16-Oct-2018 22:16:19.327 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log destination airport: ATL
+16-Oct-2018 22:16:19.327 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log destination airport: MIA
+16-Oct-2018 22:16:19.327 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log destination airport: GIG
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log shortest path size: 3
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log shortest path size: 3
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:16:19.369 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Sun Dec 24 22:50:00 AEDT 2017 to Sat Dec 23 23:20:00 AEDT 2017 good
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Sun Dec 24 22:50:00 AEDT 2017 to Sat Dec 23 23:20:00 AEDT 2017 good
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:16:19.390 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:16:19.410 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Mon Dec 25 22:50:00 AEDT 2017 to Sun Dec 24 23:20:00 AEDT 2017 good
+16-Oct-2018 22:16:19.410 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:16:19.410 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:16:19.410 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:16:19.411 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Mon Dec 25 22:50:00 AEDT 2017 to Sun Dec 24 23:20:00 AEDT 2017 good
+16-Oct-2018 22:16:19.411 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:16:19.411 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:16:19.411 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:16:19.461 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Tue Dec 26 22:50:00 AEDT 2017 to Mon Dec 25 23:20:00 AEDT 2017 good
+16-Oct-2018 22:16:19.461 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Tue Dec 26 22:50:00 AEDT 2017 to Mon Dec 25 23:20:00 AEDT 2017 good
+16-Oct-2018 22:55:01.058 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log destination airport: ATL
+16-Oct-2018 22:55:01.058 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log destination airport: MIA
+16-Oct-2018 22:55:01.058 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log destination airport: GIG
+16-Oct-2018 22:55:01.060 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log destination airport: ATL
+16-Oct-2018 22:55:01.060 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log destination airport: MIA
+16-Oct-2018 22:55:01.060 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log destination airport: GIG
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log shortest path size: 3
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log shortest path size: 3
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:55:01.075 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Sun Dec 24 22:50:00 AEDT 2017 to Sat Dec 23 23:20:00 AEDT 2017 good
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Sun Dec 24 22:50:00 AEDT 2017 to Sat Dec 23 23:20:00 AEDT 2017 good
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:55:01.091 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:55:01.104 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Mon Dec 25 22:50:00 AEDT 2017 to Sun Dec 24 23:20:00 AEDT 2017 good
+16-Oct-2018 22:55:01.104 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:55:01.104 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:55:01.104 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:55:01.105 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Mon Dec 25 22:50:00 AEDT 2017 to Sun Dec 24 23:20:00 AEDT 2017 good
+16-Oct-2018 22:55:01.105 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log path list size: 3
+16-Oct-2018 22:55:01.105 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log throw away: ATL
+16-Oct-2018 22:55:01.105 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log throw away: MIA
+16-Oct-2018 22:55:01.120 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Tue Dec 26 22:50:00 AEDT 2017 to Mon Dec 25 23:20:00 AEDT 2017 good
+16-Oct-2018 22:55:01.121 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log AA: MIA->GIG @Tue Dec 26 22:50:00 AEDT 2017 to Mon Dec 25 23:20:00 AEDT 2017 good

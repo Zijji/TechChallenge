@@ -1,0 +1,4 @@
+01-Nov-2018 15:49:11.141 WARN [http-nio-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 0, SQLState: 08001
+01-Nov-2018 15:49:11.142 ERROR [http-nio-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+01-Nov-2018 15:49:28.452 WARN [http-nio-8080-exec-2] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 0, SQLState: 08001
+01-Nov-2018 15:49:28.452 ERROR [http-nio-8080-exec-2] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Could not create connection to database server. Attempted reconnect 3 times. Giving up.
