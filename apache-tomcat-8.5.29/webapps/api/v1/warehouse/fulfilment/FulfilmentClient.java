@@ -56,6 +56,10 @@ public class FulfilmentClient
 									if(orderItems[i2].getProductId() == getProducts[i3].getProductId()){
 										getProducts[i3].setQuantityOnHand( getProducts[i3].getQuantityOnHand() - orderItems[i2].getQuantity() );
 										//TODO: Checks reorder threshold, places reorder if productQuantity is less than order quantity.
+										if(getProducts[i3].getQuantityOnHand() < getProducts[i3].getReorderThreshold())
+										{
+											ReorderStub newReorder = new ReorderStub(getProducts[i3].getProductId(), getProducts[i3].getReorderAmount());
+										}
 									}
 								}
 								//
