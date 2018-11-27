@@ -1,22 +1,22 @@
 //Represents an order
 public class Order
 {
-	private int orderId;
+	private long orderId;
 	private String status;
 	private String dateCreated;
 	private Item[] items;
-	public Order(int orderId, String status,String dateCreated, Item[] items)
+	public Order(long orderId, String status,String dateCreated, Item[] items)
 	{
 		this.orderId = orderId;
 		this.status = status;
 		this.dateCreated = dateCreated;
 		this.items = items;
 	}
-	public int getOrderId()
+	public long getOrderId()
 	{
 		return orderId;
 	}
-	public void setOrderId(int orderId)
+	public void setOrderId(long orderId)
 	{
 		this.orderId = orderId;
 	}

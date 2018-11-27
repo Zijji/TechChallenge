@@ -1,38 +1,38 @@
 //Represents an item in an order
 public class Item
 {
-	private int orderId;
-	private int productId;
-	private int quantity;
+	private long orderId;
+	private long productId;
+	private long quantity;
 	private double costPerItem;
-	public Item(int orderId, int productId, int quantity, double costPerItem)
+	public Item(long orderId, long productId, long quantity, double costPerItem)
 	{
 		this.orderId = orderId;
 		this.productId = productId;
 		this.quantity = quantity;
 		this.costPerItem = costPerItem;
 	}
-	public int getOrderId()
+	public long getOrderId()
 	{
 		return orderId;
 	}
-	public void setOrderId(int orderId)
+	public void setOrderId(long orderId)
 	{
 		this.orderId = orderId;
 	}
-	public int getProductId()
+	public long getProductId()
 	{
 		return productId;
 	}
-	public void setProductId(int productId)
+	public void setProductId(long productId)
 	{
 		this.productId = productId;
 	}
-	public int getQuantity()
+	public long getQuantity()
 	{
 		return quantity;
 	}
-	public void setQuantity(int quantity)
+	public void setQuantity(long quantity)
 	{
 		this.quantity = quantity;
 	}
@@ -40,7 +40,7 @@ public class Item
 	{
 		return costPerItem;
 	}
-	public void setCostPerItem(int costPerItem)
+	public void setCostPerItem(long costPerItem)
 	{
 		this.costPerItem = costPerItem;
 	}
