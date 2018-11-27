@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [01/Sep/2018:17:43:19 +1000] "GET /FlightPub-0.1/bookings?add=17 HTTP/1.1" 200 894
-0:0:0:0:0:0:0:1 - - [01/Sep/2018:17:43:19 +1000] "GET /FlightPub-0.1/css/style.css HTTP/1.1" 200 4010
-0:0:0:0:0:0:0:1 - - [01/Sep/2018:17:43:19 +1000] "GET /FlightPub-0.1/img/flightpub-logo.png HTTP/1.1" 200 3641
-0:0:0:0:0:0:0:1 - - [01/Sep/2018:17:43:19 +1000] "GET /favicon.ico HTTP/1.1" 200 21630

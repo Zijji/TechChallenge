@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [18/Aug/2018:01:35:34 +1000] "GET /FlightPub-0.1/results HTTP/1.1" 200 929
-0:0:0:0:0:0:0:1 - - [18/Aug/2018:01:35:34 +1000] "GET /FlightPub-0.1/js/script.js HTTP/1.1" 200 514
-0:0:0:0:0:0:0:1 - - [18/Aug/2018:01:35:34 +1000] "GET /FlightPub-0.1/css/style.css HTTP/1.1" 200 4010
-0:0:0:0:0:0:0:1 - - [18/Aug/2018:01:35:34 +1000] "GET /FlightPub-0.1/img/flightpub-logo.png HTTP/1.1" 200 3641
-0:0:0:0:0:0:0:1 - - [18/Aug/2018:01:35:35 +1000] "GET /FlightPub-0.1/normal-results HTTP/1.1" 200 33669
-0:0:0:0:0:0:0:1 - - [18/Aug/2018:01:35:35 +1000] "GET /FlightPub-0.1/img/AA.png HTTP/1.1" 200 1237

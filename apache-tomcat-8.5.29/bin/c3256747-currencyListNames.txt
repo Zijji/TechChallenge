@@ -1,4 +1,0 @@
-AUD
-USD
-GBP
-NZD
