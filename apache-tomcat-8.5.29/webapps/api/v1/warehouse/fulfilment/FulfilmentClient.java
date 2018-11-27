@@ -39,24 +39,28 @@ public class FulfilmentClient
 						Item[] orderItems = getOrders[i].getItems();
 						for(int i2 = 0; i2 < orderItems.length; i2++){
 							//Retrives product ids, decrements products by product ID's.
+							//First checks for orders.
 							for(int i3 = 0; i3 < getProducts.length; i3++){
 								//Retrives product ids, decrements products by product ID's.
 								if(orderItems[i2].getProductId() == getProducts[i3].getProductId()){
-									if(getProducts[i3].getQuantityOnHand() >= orderItems[i2].getQuantity())
+									if(getProducts[i3].getQuantityOnHand() < orderItems[i2].getQuantity())
 									{
-										getProducts[i3].setQuantityOnHand( getProducts[i3].getQuantityOnHand() - orderItems[i2].getQuantity() );
-									}
-									else
-									{
-										//Order cannot be fulfilled.
 										getOrders[i1].setStatus("Error: Unfulfillable");
 									}
 								}
 							}
-						}
-						//Sets status to "Fulfilled" if order can be fulfilled.
-						if(getOrders[i1].getStatus().equals("Pending")){
-							getOrders[i1].setStatus("Fulfilled");
+							if(getOrders[i1].getStatus().equals("Pending")){
+								//If order is fulfilled, decrements product quantities.
+								for(int i3 = 0; i3 < getProducts.length; i3++){
+									//Retrives product ids, decrements products by product ID's.
+									if(orderItems[i2].getProductId() == getProducts[i3].getProductId()){
+										getProducts[i3].setQuantityOnHand( getProducts[i3].getQuantityOnHand() - orderItems[i2].getQuantity() );
+										//TODO: Checks reorder threshold, places reorder if productQuantity is less than order quantity.
+									}
+								}
+								//
+								getOrders[i1].setStatus("Fulfilled");
+							}
 						}
 					}
 				}
@@ -65,8 +69,6 @@ public class FulfilmentClient
 			for(int i = 0; i < getOrders.length; i++){
 				System.out.println(getOrders[i].getStatus());
 			}
-			
-			
 		}
 		catch(Exception e)
 		{
