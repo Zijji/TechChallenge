@@ -7,7 +7,7 @@ public class Product
 	private int reorderThreshold;
 	private int reorderAmount;
 	private int deliveryLeadTime;
-	public Product(int productId, String description, quantityOnHand, int reorderThreshold, int reorderAmount, int deliveryLeadTime)
+	public Product(int productId, String description, int quantityOnHand, int reorderThreshold, int reorderAmount, int deliveryLeadTime)
 	{
 		this.productId = productId;
 		this.description = description;
@@ -60,7 +60,7 @@ public class Product
 	{
 		return deliveryLeadTime;
 	}
-	public void setReorderAmount(int deliveryLeadTime)
+	public void setDeliveryLeadTime(int deliveryLeadTime)
 	{
 		this.deliveryLeadTime = deliveryLeadTime;
 	}
