@@ -1,62 +1,49 @@
-//import java.util.ArrayList;
+import java.util.ArrayList;
 //import java.io.BufferedReader;
 import java.io.FileReader;
 import org.json.simple.*;
 import org.json.simple.parser.JSONParser;
 
+
 public class Fulfilment
 {
-	public void read() throws Exception
+	public Product[] returnProducts() throws Exception
 	{
-		//Reads all lines from data.json
+		//Returns all products stored in data.json as product objects
 		try
 		{
 			JSONParser parser = new JSONParser();
 			JSONObject getData = (JSONObject) parser.parse(new FileReader("data.json"));
-			//JSONArray getJSONArray = (JSONArray) parser.parse(new FileReader("data.json"));
-			JSONArray products = (JSONArray) getData.get("products");
+			JSONArray jsonproducts = (JSONArray) getData.get("products");
 			
-			for(Object getObject : products)
+			ArrayList<Product> productList = new ArrayList<Product>();
+			
+			
+			for(Object getObject : jsonproducts)
 			{
+				//Creates objects and stores them in productlist
 				JSONObject getJSONObject = (JSONObject) getObject;
 				
+				long productId = (long) getJSONObject.get("productId");
 				String description = (String) getJSONObject.get("description");
-				System.out.print(description);
-			}
-			//System.out.print(getJSONArray.get(1));
-			/*
-			for(Object o : getJSONArray.get(1);)
-			{
+				long quantityOnHand = (long) getJSONObject.get("quantityOnHand");
+				long reorderThreshold = (long) getJSONObject.get("reorderThreshold");
+				long reorderAmount = (long) getJSONObject.get("reorderAmount");
+				long deliveryLeadTime = (long) getJSONObject.get("deliveryLeadTime");
 				
+				
+				Product getProduct = new Product(productId, description, quantityOnHand, reorderThreshold, reorderAmount, deliveryLeadTime);
+				productList.add(getProduct);
 			}
-			*/
-			/*
-			JSONArray getProducts = getJSONArray.get("products");
-			String description = getProducts.get("description");
-			System.out.println(description);
-			*/
-			/*
-			for(Object o : getJSONArray)
-			{
-				JSONObject thisObject = (JSONObject) o;
-			}
-			*/
-			/*
-			BufferedReader dataReader = new BufferedReader(new FileReader("data.json"));
-			String getLine = dataReader.readLine();
-			ArrayList<String> getList = new ArrayList<String>();
 			
-			while(getLine != null)
-			{
-				getList.add(getLine);
-			}
-			*/
+			//Stores productList as an array and returns this array.
+			return productList.toArray(new Product[productList.size()]);
 		}
 		catch(Exception e )
 		{
 			e.printStackTrace();
 		}
-		
-		//String[] returnList = 
+		//returns null as default
+		return null;
 	}
 }

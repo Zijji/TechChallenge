@@ -1,13 +1,13 @@
 //Represents a product
 public class Product
 {
-	private int productId;
+	private long productId;
 	private String description;
-	private int quantityOnHand;
-	private int reorderThreshold;
-	private int reorderAmount;
-	private int deliveryLeadTime;
-	public Product(int productId, String description, int quantityOnHand, int reorderThreshold, int reorderAmount, int deliveryLeadTime)
+	private long quantityOnHand;
+	private long reorderThreshold;
+	private long reorderAmount;
+	private long deliveryLeadTime;
+	public Product(long productId, String description, long quantityOnHand, long reorderThreshold, long reorderAmount, long deliveryLeadTime)
 	{
 		this.productId = productId;
 		this.description = description;
@@ -16,11 +16,11 @@ public class Product
 		this.reorderAmount = reorderAmount;
 		this.deliveryLeadTime = deliveryLeadTime;
 	}
-	public int getProductId()
+	public long getProductId()
 	{
 		return productId;
 	}
-	public void setProductId(int productId)
+	public void setProductId(long productId)
 	{
 		this.productId = productId;
 	}
@@ -32,35 +32,35 @@ public class Product
 	{
 		this.description = description;
 	}
-	public int getQuantityOnHand()
+	public long getQuantityOnHand()
 	{
 		return quantityOnHand;
 	}
-	public void setQuantityOnHand(int quantityOnHand)
+	public void setQuantityOnHand(long quantityOnHand)
 	{
 		this.quantityOnHand = quantityOnHand;
 	}
-	public int getReorderThreshold()
+	public long getReorderThreshold()
 	{
 		return reorderThreshold;
 	}
-	public void setReorderThreshold(int reorderThreshold)
+	public void setReorderThreshold(long reorderThreshold)
 	{
 		this.reorderThreshold = reorderThreshold;
 	}
-	public int getReorderAmount()
+	public long getReorderAmount()
 	{
 		return reorderAmount;
 	}
-	public void setReorderAmount(int reorderAmount)
+	public void setReorderAmount(long reorderAmount)
 	{
 		this.reorderAmount = reorderAmount;
 	}
-	public int getDeliveryLeadTime()
+	public long getDeliveryLeadTime()
 	{
 		return deliveryLeadTime;
 	}
-	public void setDeliveryLeadTime(int deliveryLeadTime)
+	public void setDeliveryLeadTime(long deliveryLeadTime)
 	{
 		this.deliveryLeadTime = deliveryLeadTime;
 	}

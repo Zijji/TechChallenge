@@ -5,7 +5,11 @@ public class Testfulfilment
 		Fulfilment thisFulfilment = new Fulfilment();
 		try
 		{
-			thisFulfilment.read();
+			Product[] getProducts = thisFulfilment.returnProducts();
+			for(int i = 0; i < getProducts.length; i++)
+			{
+				System.out.println(getProducts[i].getProductId());
+			}
 		}
 		catch(Exception e)
 		{
